@@ -50,6 +50,7 @@ Hi, I'm Daniel Cavalcanti, a Front-End Developer 🚀 from Brazil! I've always b
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCavalcantih)](https://github.com/DanielCavalcantih/github-readme-stats)
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCavalcantih&show_icons=true&theme=tokyonight)
 
 ⭐️ From [DanielCavalcantih](https://github.com/DanielCavalcantih)
