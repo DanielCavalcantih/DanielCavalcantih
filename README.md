@@ -15,6 +15,8 @@
 
 Hi, I'm Daniel Cavalcanti, a Front-End Developer 🚀 from Brazil! I've always been a technology fanatic, I always try to keep up to date with everything that's new in this world. I am currently studying at [Trybe](https://github.com/betrybe) 🚀, where I have access to the best possible programming content.
 
+<br />
+
   <img align="right" width="450" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a5d1aa64258877.5acc981d4c702.gif" />
   
 **Talking about Personal Stuffs:**
@@ -34,10 +36,11 @@ Hi, I'm Daniel Cavalcanti, a Front-End Developer 🚀 from Brazil! I've always b
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<br />
+<br />
 
-
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=DanielCavalcantih&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCavalcantih)](https://github.com/DanielCavalcantih/github-readme-stats)
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=DanielCavalcantih&show_icons=true&hide_border=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielCavalcantih&repo=DanielCavalcantih.github.io)](https://github.com/DanielCavalcantih/github-readme-stats)
 
 ⭐️ From [DanielCavalcantih](https://github.com/DanielCavalcantih)
