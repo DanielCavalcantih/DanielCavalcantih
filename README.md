@@ -17,7 +17,9 @@ Hi, I'm Daniel Cavalcanti, a Front-End Developer 🚀 from Brazil! I've always b
 
 <br />
 
-  <img align="right" width="450" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a5d1aa64258877.5acc981d4c702.gif" />
+  <img align="right" width="450" alt="GIF" src="https://camo.githubusercontent.com/a8315f2ed2dfedf561563a307c6fc5dc541eb9b8c291f9003f74e8eac84b2bc2/68747470733a2f2f692e6962622e636f2f37525157776b522f74756d626c722d66356533653132313035336261386438303763633033613133656266643162382d32336538313461312d313238302e676966" />
+  
+<br />
   
 **Talking about Personal Stuffs:**
 
@@ -26,19 +28,23 @@ Hi, I'm Daniel Cavalcanti, a Front-End Developer 🚀 from Brazil! I've always b
 - 👯 I'm looking to become a junior front end developer 💻;
 - 💬 Ask me about anything, I am happy to help;
 
+<br />
+
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<br />
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br />
 <br />
 
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=DanielCavalcantih&show_icons=true&hide_border=true)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCavalcantih&show_icons=true&theme=tokyonight)
 
 ⭐️ From [DanielCavalcantih](https://github.com/DanielCavalcantih)
