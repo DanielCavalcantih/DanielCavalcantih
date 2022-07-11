@@ -26,7 +26,7 @@ Hi, I'm Daniel Cavalcanti, a Front-End Developer 🚀 from Brazil! I've always b
 - 👨🏽‍💻 I currently don't work;
 - 🌱 I’m currently learning React; 
 - 👯 I'm looking to become a junior front end developer 💻;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help, send messages to my email danielcavalcanti8000@gmail.com;
 
 <br />
 
