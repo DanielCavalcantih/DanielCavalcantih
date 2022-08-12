@@ -16,8 +16,6 @@
 Hi, I'm Daniel Cavalcanti, a Front-End Developer 🚀 from Brazil! I've always been a technology fanatic, I always try to keep up to date with everything that's new in this world. I am currently studying at [Trybe](https://github.com/betrybe) 🚀, where I have access to the best possible programming content.
 
 <br />
-
-  <img align="right" width="450" alt="GIF" src="https://camo.githubusercontent.com/a8315f2ed2dfedf561563a307c6fc5dc541eb9b8c291f9003f74e8eac84b2bc2/68747470733a2f2f692e6962622e636f2f37525157776b522f74756d626c722d66356533653132313035336261386438303763633033613133656266643162382d32336538313461312d313238302e676966" />
   
 <br />
   
