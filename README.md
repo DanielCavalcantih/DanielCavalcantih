@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Daniel Cavalcanti, a Front-End Developer 🚀 from Brazil! I've always been a technology fanatic, I always try to keep up to date with everything that's new in this world. I am currently studying at [Trybe](https://github.com/betrybe) 🚀, where I have access to the best possible programming content.
+Hi, I'm Daniel Cavalcanti, a Full-Stack Developer 🚀 from Brazil! I've always been a technology fanatic, I always try to keep up to date with everything that's new in this world. I am currently studying at [Trybe](https://github.com/betrybe) 🚀, where I have access to the best possible programming content.
 
 <br />
 
