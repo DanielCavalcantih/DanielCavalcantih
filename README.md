@@ -24,8 +24,8 @@ Hi, I'm Daniel Cavalcanti, a Full-Stack Developer 🚀 from Brazil! I've always 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I currently don't work;
-- 🌱 I’m currently learning React; 
-- 👯 I'm looking to become a junior full stack developer 💻;
+- 🌱 I’m currently learning Vue; 
+- 👯 I'm a junior full stack developer 💻;
 - 💬 Ask me about anything, I am happy to help, send messages to my email danielcavalcanti8000@gmail.com;
 
 <br />
@@ -47,7 +47,7 @@ Hi, I'm Daniel Cavalcanti, a Full-Stack Developer 🚀 from Brazil! I've always 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/mongo.png"></code>
 
 
 <br />
