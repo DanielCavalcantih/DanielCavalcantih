@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Daniel Cavalcanti, a Full-Stack Developer 🚀 from Brazil! I've always been a technology fanatic, I always try to keep up to date with everything that's new in this world. I am currently working at Maker Experts 🚀, where we develop projects for other companies.
+Hi, I'm Daniel Cavalcanti, a Front-End Developer 🚀 from Brazil! I've always been a technology fanatic, I always try to keep up to date with everything that's new in this world. I am currently working at Datasys Consultoria 🚀, where we develop projects for other companies.
 
 <br />
 
@@ -23,9 +23,9 @@ Hi, I'm Daniel Cavalcanti, a Full-Stack Developer 🚀 from Brazil! I've always 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I currently don't work;
-- 🌱 I’m currently learning Vue; 
-- 👯 I'm a junior full stack developer 💻;
+- 👨🏽‍💻 I currently work at [Datasys Consultoria](https://datasysconsultoria.com.br/);
+- 🌱 I’m currently learning React-Native; 
+- 👯 I'm a front-end developer 💻;
 - 💬 Ask me about anything, I am happy to help, send messages to my email danielcavalcanti8000@gmail.com;
 
 <br />
