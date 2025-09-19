@@ -24,7 +24,6 @@ Hi, I'm Daniel Cavalcanti, a Full-Stack Developer 🚀 from Brazil! I've always 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I currently work at [Amigo Tech](https://www.amigotech.com.br/);
-- 🌱 I’m currently learning React-Native; 
 - 👯 I'm a full-stack developer 💻;
 - 💬 Ask me about anything, I am happy to help, send messages to my email danielcavalcanti8000@gmail.com;
 
